@@ -1,0 +1,1 @@
+This is Dirac's first git project! IT is NOT my FITRST GIT PROJECET!
